@@ -1,7 +1,6 @@
 {
   "name": "origin",
   "version": "0.1.0",
-  "homepage": "http://lang-sky.github.io/react-auth0-popup",
   "private": true,
   "dependencies": {
     "auth0-js": "^9.12.0",
